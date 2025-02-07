@@ -24,10 +24,11 @@ Create a `.env` file in your project root and add your App Store issuer ID:
 APPSTORE_ISSUER_ID=xxxxxxx-xxxxx-xxxxx-xxxxx-xxxxxxxxxxx
 ```
 
+### Step 3: Add your AuthKey_Z#######P.p8 file to the app directory.
+
+
 ## Notes
 
 This is my first open-source project, so please be gentle. I’d appreciate PRs with improvements!
 
 Use at your own risk, but do with it what you want. Just do me a favor—use [Wave AI Note Taker](https://wave.co).
-
-
