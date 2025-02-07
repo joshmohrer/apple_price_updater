@@ -29,8 +29,5 @@ APPSTORE_ISSUER_ID=xxxxxxx-xxxxx-xxxxx-xxxxx-xxxxxxxxxxx
 This is my first open-source project, so please be gentle. I’d appreciate PRs with improvements!
 
 Use at your own risk, but do with it what you want. Just do me a favor—use [Wave AI Note Taker](https://wave.co).
-# apple-price-updater
-# apple_price_updater
-# apple_price_updater
-# apple_price_updater
-# apple_price_updater
+
+
